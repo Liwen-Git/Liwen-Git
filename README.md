@@ -3,11 +3,14 @@
 <a href="https://www.zlf520.com.cn/storage/diary/TyhYn65h6y3qNt8uz1iUCcao9nazyDS4PDywanEv.jpeg">
   <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
-<a href="liwen1010322212@163.com">
+<a href="mailto:liwen1010322212@163.com">
   <img align="left" alt="'163mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mail-dot-ru.svg" />
 </a>
-<a href="liwen1010322212@gmail.com">
+<a href="mailto:liwen1010322212@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://twitter.com/liwen_com">
+  <img align="left" alt="'Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
 
 <br />
@@ -33,7 +36,8 @@ This is my blog 🌱: <https://liwengo.top>.
   - Laravel, ThinkPHP ❤️
   - Hyperf, Phalcon, ShopNC
 - **Frontend Development**
-	- HTML, CSS, Javascript and vue :white_check_mark:
+	- Vue :white_check_mark:
+	- HTML, CSS, Javascript
 	- ElementUI
 - **Server Operation**
   - Git, SVN
