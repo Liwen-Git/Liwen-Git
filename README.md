@@ -17,7 +17,7 @@ Hi, I'm Liwen-Git 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an
 
 This is my blog: <https://liwengo.top>.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="330" />
 
 ![Liwen-Git's github stats](https://github-readme-stats.vercel.app/api?username=Liwen-Git&show_icons=true&hide_border=true)
 
