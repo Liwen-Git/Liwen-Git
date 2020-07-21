@@ -13,13 +13,35 @@
 <br />
 <br />
 
+#### About me :mortar_board:
+
 Hi, I'm Liwen-Git 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an website profession and always develop in PHP 🐘.
 
-This is my blog: <https://liwengo.top>.
+This is my blog 🌱: <https://liwengo.top>.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="330" />
 
 ![Liwen-Git's github stats](https://github-readme-stats.vercel.app/api?username=Liwen-Git&show_icons=true&hide_border=true)
+
+#### What I know :computer:
+
+- **Competitive Programming**
+	- PHP ❤️
+	- Some Python
+	- Some Go
+- **PHP Framework**
+  - Laravel, ThinkPHP ❤️
+  - Hyperf, Phalcon, ShopNC
+- **Frontend Development**
+	- HTML, CSS, Javascript and vue :white_check_mark:
+	- ElementUI
+- **Server Operation**
+  - Git, SVN
+  - Mysql, Redis, MongoDB
+  - Linux, LNMP
+  - Docker, Jenkins
+
+Thanks for stopping by! 😁
 
 ⭐️ From [Liwen-Git](https://github.com/Liwen-Git)
 
