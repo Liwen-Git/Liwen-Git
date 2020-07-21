@@ -13,7 +13,12 @@
 <br />
 <br />
 
-> this is my blog: <https://liwengo.top>
+Hi, I'm Liwen-Git 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an website profession and always develop in PHP 🐘. This is my blog: <https://liwengo.top>.
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+
 
 <!--
 **Liwen-Git/Liwen-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
