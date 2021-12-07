@@ -42,10 +42,12 @@ This is my blog 🌱: <https://liwengo.top>.
   - Mysql, Redis, MongoDB
   - Linux, LNMP
   - Docker, Jenkins
-  
+
+<!--
 #### Interesting stats
 
 ![Liwen-Git's github stats](https://github-readme-stats.vercel.app/api?username=Liwen-Git&show_icons=true&hide_border=true)
+-->
 
 Thanks for stopping by! 😁
 
